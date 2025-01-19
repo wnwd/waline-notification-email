@@ -1,0 +1,23 @@
+{
+  "name": "waline-notification-email",
+  "version": "1.0.0",
+  "description": "A Waline notification plugin that sends email alerts via SMTP",
+  "keywords": [
+    "waline",
+    "notification",
+    "blog",
+    "plugin",
+    "email"
+  ],
+  "homepage": "https://github.com/wnwd/waline-notification-email#readme",
+  "bugs": {
+    "url": "https://github.com/wnwd/waline-notification-email/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wnwd/waline-notification-email.git"
+  },
+  "license": "MIT",
+  "author": "mapxn",
+  "main": "index.js"
+}
